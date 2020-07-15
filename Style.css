@@ -1,0 +1,29 @@
+*
+{
+	margin : 0px;
+	padding: 0px;
+	box-sizing: border-box;
+
+}
+
+body
+{
+	
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+ 	background-size: cover;
+}
+
+.bg-image
+{
+	background-image: url(Background.jpeg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+ 	background-size: cover;
+
+}
+#paypal-button-container
+{
+	margin-left: 5%;
+	margin-top: 30%;
+}
